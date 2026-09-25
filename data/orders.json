@@ -1,0 +1,23 @@
+[
+  {
+    "id": "GS-MU0FH41X",
+    "createdAt": "2026-09-13T23:11:12.837Z",
+    "status": "New",
+    "customer": {
+      "name": "QA Tester",
+      "phone": "+212 612345678",
+      "city": "Rabat",
+      "address": "12 Rue Test",
+      "notes": ""
+    },
+    "items": [
+      {
+        "id": "gs-001",
+        "name": "Lina Mini Tote",
+        "price": 690,
+        "quantity": 1
+      }
+    ],
+    "total": 690
+  }
+]

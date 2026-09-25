@@ -1,0 +1,24 @@
+{
+  "name": "ghalishop",
+  "version": "2.0.0",
+  "description": "GhaliShop storefront with a portable Node.js API. Deployable on any Node hosting platform.",
+  "private": true,
+  "main": "server.js",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node tests/smoke.test.js && node tests/serverless.test.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  },
+  "overrides": {
+    "qs": "^6.16.0"
+  }
+}

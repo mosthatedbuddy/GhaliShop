@@ -1,0 +1,374 @@
+[
+  {
+    "id": "gs-001",
+    "name": "Lina Mini Tote",
+    "category": "Handbags",
+    "price": 690,
+    "description": "A compact, softly structured tote for coffee runs and city afternoons. The open top keeps essentials close.",
+    "material": "Vegan leather",
+    "dimensions": "24 x 19 x 10 cm",
+    "colors": [
+      "#d7b59d",
+      "#202a29",
+      "#e7e0d4"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.9,
+    "stock": "In stock",
+    "images": [
+      "photo-1584917865442-de89df76afd3",
+      "photo-1594223274512-ad4803739b7c",
+      "photo-1566150905458-1bf1fc113f0d",
+      "photo-1553062407-98eeb64c6a62"
+    ]
+  },
+  {
+    "id": "gs-002",
+    "name": "Noma Shoulder Bag",
+    "category": "Women",
+    "price": 820,
+    "description": "A clean shoulder silhouette with a considered strap drop and room for the everyday edit.",
+    "material": "Textured PU leather",
+    "dimensions": "28 x 18 x 8 cm",
+    "colors": [
+      "#303a38",
+      "#cba98d",
+      "#c6efff"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.8,
+    "stock": "In stock",
+    "images": [
+      "photo-1591561954557-26941169b49e",
+      "photo-1548036328-c9fa89d128fa",
+      "photo-1584917865442-de89df76afd3",
+      "photo-1594223274512-ad4803739b7c"
+    ]
+  },
+  {
+    "id": "gs-003",
+    "name": "Atlas Work Tote",
+    "category": "Men",
+    "price": 980,
+    "description": "A generous work tote that keeps a laptop, notebook, and daily essentials in order.",
+    "material": "Recycled canvas",
+    "dimensions": "42 x 31 x 13 cm",
+    "colors": [
+      "#253230",
+      "#b7ad99"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.7,
+    "stock": "In stock",
+    "images": [
+      "photo-1553062407-98eeb64c6a62",
+      "photo-1556306535-0f09a537f0a3",
+      "photo-1542291026-7eec264c27ff",
+      "photo-1517841905240-472988babdf9"
+    ]
+  },
+  {
+    "id": "gs-004",
+    "name": "Mina Crossbody",
+    "category": "Women",
+    "price": 560,
+    "description": "Light, hands-free, and quietly polished. Mina is made for long walks and late lunches.",
+    "material": "Vegan leather",
+    "dimensions": "22 x 16 x 7 cm",
+    "colors": [
+      "#ffd7c6",
+      "#313b39",
+      "#efe7dc"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.6,
+    "stock": "Low stock",
+    "images": [
+      "photo-1566150905458-1bf1fc113f0d",
+      "photo-1590874103328-eac38a683ce7",
+      "photo-1594223274512-ad4803739b7c",
+      "photo-1548036328-c9fa89d128fa"
+    ]
+  },
+  {
+    "id": "gs-005",
+    "name": "Kora Daypack",
+    "category": "Backpacks",
+    "price": 760,
+    "description": "An everyday daypack with a padded sleeve, hidden pocket, and an easy, upright shape.",
+    "material": "Water-resistant nylon",
+    "dimensions": "30 x 42 x 14 cm",
+    "colors": [
+      "#c6efff",
+      "#202a29"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.9,
+    "stock": "In stock",
+    "images": [
+      "photo-1553062407-98eeb64c6a62",
+      "photo-1556306535-0f09a537f0a3",
+      "photo-1491637639811-60e2756cc1c7",
+      "photo-1542291026-7eec264c27ff"
+    ]
+  },
+  {
+    "id": "gs-006",
+    "name": "Safi Soft Hobo",
+    "category": "Handbags",
+    "price": 740,
+    "description": "A relaxed hobo with a sculptural curve and a wide shoulder strap that sits just right.",
+    "material": "Soft faux suede",
+    "dimensions": "35 x 25 x 11 cm",
+    "colors": [
+      "#c3a184",
+      "#273330"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.5,
+    "stock": "In stock",
+    "images": [
+      "photo-1590874103328-eac38a683ce7",
+      "photo-1584917865442-de89df76afd3",
+      "photo-1594223274512-ad4803739b7c",
+      "photo-1566150905458-1bf1fc113f0d"
+    ]
+  },
+  {
+    "id": "gs-007",
+    "name": "Rabat Weekender",
+    "category": "Men",
+    "price": 1120,
+    "description": "A soft-sided weekender for two-night escapes, with a shoe compartment and sturdy handles.",
+    "material": "Waxed cotton canvas",
+    "dimensions": "52 x 29 x 25 cm",
+    "colors": [
+      "#263330",
+      "#b18d72"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.8,
+    "stock": "In stock",
+    "images": [
+      "photo-1556306535-0f09a537f0a3",
+      "photo-1553062407-98eeb64c6a62",
+      "photo-1491637639811-60e2756cc1c7",
+      "photo-1542291026-7eec264c27ff"
+    ]
+  },
+  {
+    "id": "gs-008",
+    "name": "Noor Mini Backpack",
+    "category": "Backpacks",
+    "price": 640,
+    "description": "A smaller backpack with a surprisingly spacious interior, built for light city movement.",
+    "material": "Recycled nylon",
+    "dimensions": "25 x 33 x 12 cm",
+    "colors": [
+      "#ffd7c6",
+      "#566a64",
+      "#f3f0e8"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.7,
+    "stock": "In stock",
+    "images": [
+      "photo-1491637639811-60e2756cc1c7",
+      "photo-1553062407-98eeb64c6a62",
+      "photo-1556306535-0f09a537f0a3",
+      "photo-1581605405669-fcdf81165afa"
+    ]
+  },
+  {
+    "id": "gs-009",
+    "name": "Oasis Shopper",
+    "category": "Sale",
+    "price": 490,
+    "oldPrice": 690,
+    "discount": 29,
+    "description": "An open, generous shopper with a soft handle and an even softer price for a limited time.",
+    "material": "Cotton canvas",
+    "dimensions": "38 x 34 x 12 cm",
+    "colors": [
+      "#c6efff",
+      "#d4b59e"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.4,
+    "stock": "In stock",
+    "images": [
+      "photo-1594223274512-ad4803739b7c",
+      "photo-1553062407-98eeb64c6a62",
+      "photo-1566150905458-1bf1fc113f0d",
+      "photo-1590874103328-eac38a683ce7"
+    ]
+  },
+  {
+    "id": "gs-010",
+    "name": "Dune Camera Bag",
+    "category": "Sale",
+    "price": 450,
+    "oldPrice": 620,
+    "discount": 27,
+    "description": "A neat camera bag with padded protection and an adjustable strap for hands-free days.",
+    "material": "Vegan leather",
+    "dimensions": "21 x 15 x 8 cm",
+    "colors": [
+      "#c5a586",
+      "#202a29"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.6,
+    "stock": "Low stock",
+    "images": [
+      "photo-1548036328-c9fa89d128fa",
+      "photo-1584917865442-de89df76afd3",
+      "photo-1591561954557-26941169b49e",
+      "photo-1594223274512-ad4803739b7c"
+    ]
+  },
+  {
+    "id": "gs-011",
+    "name": "Cedar Briefcase",
+    "category": "Men",
+    "price": 1050,
+    "description": "A refined briefcase with a clean profile, two carry options, and a padded laptop sleeve.",
+    "material": "Grain vegan leather",
+    "dimensions": "40 x 30 x 9 cm",
+    "colors": [
+      "#263330",
+      "#9d7961"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.8,
+    "stock": "In stock",
+    "images": [
+      "photo-1542291026-7eec264c27ff",
+      "photo-1556306535-0f09a537f0a3",
+      "photo-1553062407-98eeb64c6a62",
+      "photo-1491637639811-60e2756cc1c7"
+    ]
+  },
+  {
+    "id": "gs-012",
+    "name": "Lune Bucket Bag",
+    "category": "Women",
+    "price": 780,
+    "description": "A drawstring bucket with a graceful line and enough room for a book, bottle, and small treasures.",
+    "material": "Faux leather",
+    "dimensions": "24 x 28 x 15 cm",
+    "colors": [
+      "#d6b9a9",
+      "#263330",
+      "#c6efff"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.9,
+    "stock": "In stock",
+    "images": [
+      "photo-1591561954557-26941169b49e",
+      "photo-1566150905458-1bf1fc113f0d",
+      "photo-1548036328-c9fa89d128fa",
+      "photo-1584917865442-de89df76afd3"
+    ]
+  },
+  {
+    "id": "gs-013",
+    "name": "Nassau Sling",
+    "category": "Backpacks",
+    "price": 520,
+    "description": "A compact sling that keeps your hands free and your essentials exactly where you need them.",
+    "material": "Ripstop nylon",
+    "dimensions": "18 x 32 x 8 cm",
+    "colors": [
+      "#253230",
+      "#ffd7c6"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.5,
+    "stock": "In stock",
+    "images": [
+      "photo-1581605405669-fcdf81165afa",
+      "photo-1491637639811-60e2756cc1c7",
+      "photo-1553062407-98eeb64c6a62",
+      "photo-1556306535-0f09a537f0a3"
+    ]
+  },
+  {
+    "id": "gs-014",
+    "name": "Marrakesh Clutch",
+    "category": "Sale",
+    "price": 380,
+    "oldPrice": 550,
+    "discount": 31,
+    "description": "A slim evening clutch with a magnetic fold and a little extra room for the essentials.",
+    "material": "Satin finish PU",
+    "dimensions": "25 x 14 x 4 cm",
+    "colors": [
+      "#d16f50",
+      "#202a29"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.3,
+    "stock": "In stock",
+    "images": [
+      "photo-1590874103328-eac38a683ce7",
+      "photo-1566150905458-1bf1fc113f0d",
+      "photo-1591561954557-26941169b49e",
+      "photo-1548036328-c9fa89d128fa"
+    ]
+  },
+  {
+    "id": "gs-015",
+    "name": "Sora Crescent Bag",
+    "category": "Handbags",
+    "price": 860,
+    "description": "A confident crescent shape with an adjustable handle for shoulder or crossbody wear.",
+    "material": "Pebbled vegan leather",
+    "dimensions": "31 x 20 x 9 cm",
+    "colors": [
+      "#b7ad99",
+      "#263330",
+      "#ffd7c6"
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "rating": 4.8,
+    "stock": "In stock",
+    "images": [
+      "photo-1584917865442-de89df76afd3",
+      "photo-1590874103328-eac38a683ce7",
+      "photo-1594223274512-ad4803739b7c",
+      "photo-1566150905458-1bf1fc113f0d"
+    ]
+  }
+]
