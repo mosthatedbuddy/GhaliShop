@@ -31,8 +31,19 @@ async function getApp() {
   return cachedApp;
 }
 
+function restoreOriginalUrl(request) {
+  const url = new URL(request.url || '/', 'http://localhost');
+  if (url.pathname !== '/api/index' && url.pathname !== '/api') return;
+  const rewrittenPath = url.searchParams.get('path');
+  if (rewrittenPath === null) return;
+  url.searchParams.delete('path');
+  const query = url.searchParams.toString();
+  request.url = `/api/${rewrittenPath.replace(/^\/+/, '')}${query ? `?${query}` : ''}`;
+}
+
 module.exports = async function handler(request, response) {
   const app = await getApp();
+  restoreOriginalUrl(request);
   await new Promise((resolve) => {
     response.on('finish', resolve);
     app(request, response);

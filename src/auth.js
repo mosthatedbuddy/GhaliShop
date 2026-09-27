@@ -3,7 +3,11 @@
 const crypto = require('node:crypto');
 
 function createAuth(config) {
-  const secret = config.sessionSecret || crypto.randomBytes(32).toString('hex');
+  // Serverless platforms run many instances; a per-instance random secret would
+  // invalidate admin tokens between requests, so fall back to a deterministic one.
+  const secret =
+    config.sessionSecret ||
+    crypto.createHash('sha256').update(`ghalishop-session:${config.adminPassword}`).digest('hex');
 
   function sign(value) {
     return crypto.createHmac('sha256', secret).update(`ghalishop:${value}`).digest('hex');

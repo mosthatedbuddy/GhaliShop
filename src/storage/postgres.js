@@ -4,7 +4,14 @@ const { Pool } = require('pg');
 
 class PostgresStore {
   constructor(connectionString) {
-    this.pool = new Pool({ connectionString, max: 10 });
+    const isServerless = process.env.VERCEL === '1';
+    const needsSsl = !/localhost|127\.0\.0\.1/.test(connectionString);
+    this.pool = new Pool({
+      connectionString,
+      max: isServerless ? 3 : 10,
+      idleTimeoutMillis: 10000,
+      ssl: needsSsl ? { rejectUnauthorized: false } : undefined
+    });
     this.initialized = false;
   }
 
